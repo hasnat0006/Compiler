@@ -1,0 +1,9 @@
+<$USER, VARIABLE>
+<$COUNT, VARIABLE>
+<10, NUMBER>
+<$USER, VARIABLE>
+<$i, VARIABLE>
+<$a, VARIABLE>
+<$b, VARIABLE>
+<$i, VARIABLE>
+<"Today is Sunny.", STRING>

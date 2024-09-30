@@ -1,0 +1,140 @@
+Inserted at position 11, 0
+Inserted at position 3, 0
+Inserted at position 4, 0
+Inserted at position 16, 0
+Inserted at position 14, 0
+Already Exists
+0--> 
+1--> 
+2--> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> 
+13--> 
+14--> <{, LCURL> 
+15--> 
+16--> <), RPARAN> 
+Not Found
+Inserted at position 12, 0
+Inserted at position 2, 0
+Found at 12 0
+Not Found
+Inserted at position 15, 0
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> <123, NUMBER> 
+16--> <), RPARAN> 
+Doesn't Exists
+Deleted from 15 0
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> 
+16--> <), RPARAN> 
+Inserted at position 15, 0
+Inserted at position 15, 1
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> <231, NUMBER> <105, NUMBER> 
+16--> <), RPARAN> 
+Deleted from 15 0
+Inserted at position 15, 1
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> <105, NUMBER> <204, NUMBER> 
+16--> <), RPARAN> 
+Deleted from 15 1
+Inserted at position 15, 1
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> <105, NUMBER> <123, NUMBER> 
+16--> <), RPARAN> 
+Doesn't Exists
+0--> 
+1--> 
+2--> <i, IDENTIFIER> 
+3--> <main, FUNCTION> 
+4--> <(, LPAREN> 
+5--> 
+6--> 
+7--> 
+8--> 
+9--> 
+10--> 
+11--> <int, KEYWORD> 
+12--> <foo, FUNCTION> 
+13--> 
+14--> <{, LCURL> 
+15--> <105, NUMBER> <123, NUMBER> 
+16--> <), RPARAN> 

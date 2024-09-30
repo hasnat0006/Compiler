@@ -1,0 +1,7 @@
+Line 1: Token <ID> Lexeme akjd
+Line 2: Token <ID> Lexeme skdjf
+Line 2: Token <ID> Lexeme qe
+Line 4: Token <ID> Lexeme skj
+Line 5: Token <ID> Lexeme skdjf
+Line 6: Token <ID> Lexeme a
+Line 10: Token <ID> Lexeme hello

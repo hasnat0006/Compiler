@@ -1,0 +1,9 @@
+<ID, Lexeme=skfjls, length=6>
+
+<ID, Lexeme=slkf, length=4>
+
+<NUM, Lexeme=30947, length=5>
+
+<ID, Lexeme=skfj23, length=6>
+
+Other pattern

@@ -1,0 +1,12 @@
+<ID, akjd>
+<ID, skdjf>
+ <ID, qe>
+<CONST_INT, 21>
+<ID, skj>
+ <CONST_INT, 23>
+<ID, skdjf>
+<INT> <ID, a>
+ <ASSIGN_OP, =>
+ <CONST_INT, 112>
+<SEMICOLON, ;>
+<ID, hello>

@@ -1,0 +1,31 @@
+Line no: 1 -- command : EC VARIABLE
+Line no: 1 -- statement : command SEMICOLON
+Line no: 1 -- statement_list : statement
+Line no: 1 -- command : LS
+Line no: 1 -- statement : command SEMICOLON
+Line no: 1 -- statement_list : statement_list statement
+Line no: 2 -- condition : VARIABLE EQ NUMBER
+Line no: 2 -- command : EC VARIABLE
+Line no: 2 -- statement : command SEMICOLON
+Line no: 2 -- statement_list : statement
+Line no: 2 -- if_statement : IF condition THEN statement_list FI
+Line no: 2 -- statement : if_statement
+Line no: 2 -- statement_list : statement_list statement
+Line no: 2 -- Error: syntax error
+Line no: 3 -- variable_list : VARIABLE
+Line no: 3 -- variable_list : variable_list VARIABLE
+Line no: 3 -- command : EC VARIABLE
+Line no: 3 -- statement : command SEMICOLON
+Line no: 3 -- statement_list : statement
+Line no: 3 -- for_loop : FOR VARIABLE IN variable_list DO statement_list DONE
+Line no: 3 -- statement : for_loop
+Line no: 3 -- statement_list : statement_list statement
+Line no: 3 -- Error: syntax error
+Line no: 4 -- command : EC STRING
+Line no: 4 -- statement : command SEMICOLON
+Line no: 4 -- statement_list : statement_list statement
+Line no: 4 -- Error: syntax error
+Line no: 4 -- command : WC
+Line no: 4 -- statement : command SEMICOLON
+Line no: 4 -- statement_list : statement_list statement
+

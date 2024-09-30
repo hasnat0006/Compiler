@@ -1,0 +1,11 @@
+MOV AX, 2
+ADD AX, 3
+MOV t1, AX
+
+MOV AX, t1
+ADD AX, 4
+MOV t2, AX
+
+MOV x, t2
+
+
